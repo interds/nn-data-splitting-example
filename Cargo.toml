@@ -1,0 +1,13 @@
+[package]
+name = "parallel_nn_example"
+version = "0.1.0"
+authors = ["Dmitry Savransky <dsavransky@intersog.com>"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+rustc-serialize = "0.3"
+indicatif = "0.15"
+scoped_threadpool = "0.1"
+rand = "0.8"
+time = "0.2"

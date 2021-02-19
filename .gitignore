@@ -1,0 +1,4 @@
+Cargo.lock
+target
+data/*
+!data/fen.txt
